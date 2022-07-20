@@ -1,0 +1,27 @@
+.picture {
+    width: 100%;
+}
+
+.link1,
+.link2,
+.link3 {
+    padding: .5rem;
+    border: 1rem;
+    margin: 2rem;
+    background-color: green;
+}
+
+.link1 {
+    color: #008080;
+    background-color: #808080;
+}
+
+.link2 {
+    color: #2e1a66;
+    background-color: #fff12b;
+}
+
+.link3 {
+    color: #611c10;
+    background-color: #baf6f8;
+}
